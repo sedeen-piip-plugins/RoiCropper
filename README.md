@@ -4,8 +4,11 @@ This plugin extracts region of interest from pathology slides given their coordi
 
 <p align="center">
   <img src="https://github.com/sedeen-piip-plugins/RoiCropper/blob/master/Images/ROICroper_2.png"/>
-  
-  <strong>Fig1.</strong> <font size="2" color="black">Annotated WSI with 6 selected ROI by the pathologist. Zoomed in ROI 1 in    the annotated WSI.</font>
+</p>
+
+<p align="center">
+<strong>Fig1.</strong> 
+  <font size="2" color="black">Annotated WSI with 6 selected ROI by the pathologist. Zoomed in ROI 1 in the annotated WSI.</font>
 </p>
 
 ## User Manual
