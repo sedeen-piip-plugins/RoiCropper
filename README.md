@@ -40,10 +40,7 @@ This plugin extracts region of interest from pathology slides given their coordi
 *	The xml file which has extracted information of selected ROI from original image with this naming format slideName_selectedRegion_centreX_centreY_key.xml (for example: 99797_Region 55_23090_18015_key.xml).
 
 ## Authors
-**Shiva Zaboli**
-
-RoiCropper plugin has been developed by Martel lab at Sunnybrook Research Institute (SRI), University of Toronto.
-[Funding provided by NIH.](https://itcr.nci.nih.gov/funded-project/pathology-image-informatics-platform-visualization-analysis-and-management)
+RoiCropper Plugin was developed by **Shiva Zaboli**, Martel lab at Sunnybrook Research Institute (SRI), University of Toronto and was partially funded by [NIH grant.](https://itcr.nci.nih.gov/funded-project/pathology-image-informatics-platform-visualization-analysis-and-management)
 
 ## Copyright & License
 
