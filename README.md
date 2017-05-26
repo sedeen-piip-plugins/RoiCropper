@@ -1,4 +1,4 @@
-<h3 align="center">RoiCropper Plugin</h3>
+<h1 align="center">RoiCropper Plugin</h1>
   
 This plugin extracts region of interest from pathology slides given their coordinates in an .xml file (by a pathologist) and save them in a separated image. It aslo creates corresponding mask based on annotations in the region of interest.
 
@@ -6,9 +6,8 @@ This plugin extracts region of interest from pathology slides given their coordi
   <img src="https://github.com/sedeen-piip-plugins/RoiCropper/blob/master/Images/ROICroper_2.png"/>
 </p>
 
-<p align="center">
-<strong>Fig1.</strong> 
-  <font size="2" color="black">Annotated WSI with 6 selected ROI by the pathologist. Zoomed in ROI 1 in the annotated WSI.</font>
+<p align="center"> 
+  <h6> <strong>Fig1.</strong> Annotated WSI with 6 selected ROI by the pathologist. Zoomed in ROI 1 in the annotated WSI.</h6>
 </p>
 
 ## User Manual
