@@ -16,13 +16,13 @@ This plugin extracts region of interest from pathology slides given their coordi
 1.	Open the WSI image in Sedeen Viewer. 
 2.	Select the “RoiCropper” plugin from the pulldown list of Algorithms.
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/sedeen-piip-plugins/RoiCropper/blob/master/Images/ROICroper_1.png"/>
 </p>
 
 3.  Select “Region of Interest” in Parameters section (for example Region 55).
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/sedeen-piip-plugins/RoiCropper/blob/master/Images/ROICroper_3.png"/>
 </p>
 
@@ -30,7 +30,7 @@ This plugin extracts region of interest from pathology slides given their coordi
 
 5.  Enter the name of whole slide image (for example 99797) and save it.
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/sedeen-piip-plugins/RoiCropper/blob/master/Images/ROICroper_4.png"/>
 </p>
 
