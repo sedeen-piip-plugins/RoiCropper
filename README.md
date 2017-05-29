@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/sedeen-piip-plugins/StainAnalysis-plugin/blob/master/Images/PIIP_SRI_2.gif"  height="100" width="150"/>
+</div>
+
 <h1 align="center">RoiCropper Plugin</h1>
   
 This plugin extracts region of interest from pathology slides given their coordinates in an .xml file (by a pathologist) and save them in a separated image. It aslo creates corresponding mask based on annotations in the region of interest.
